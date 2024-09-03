@@ -1,0 +1,13 @@
+aiogram==3.0.0b7
+openai
+llama-index
+google-generativeai
+python-dotenv==1.0.1
+websockets==10.4
+asyncio==3.4.3
+web3==6.20.0
+flask
+anthropic
+flask-cors
+flask_sqlalchemy
+httpx
